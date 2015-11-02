@@ -258,4 +258,5 @@ public class BaseActivity extends Activity {
 		myApp.mRequestQueue.add(imgRequest);
 	}
 	
+	
 }
